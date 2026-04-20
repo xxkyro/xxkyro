@@ -3,6 +3,8 @@ hi, my name is kyro. use this to visit my pages!
 carrd: [https://xxkyro.carrd.co/](url)
 atabook: [https://xxkyro.atabook.org/?page=1](url)
 
+<a href="https://xxkyro.carrd.co/">check out my carrd!</a>
+<a href="https://xxkyro.atabook.org/?page=1">sign my atabook!</a>
 
 most of the information youll find on me is in my carrd, and you can use my atabook to send me a message! now be forced to look at my bungo stray dog banners.
 
