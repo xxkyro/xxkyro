@@ -1,6 +1,6 @@
 hi, my name is kyro. use this to visit my pages!
 
-carrd: <a href="https://xxkyro.carrd.co/">check out my carrd!</a>
+carrd: <a href="https://xxkyro.carrd.co/">check out my carrd!</a>        
 atabook: <a href="https://xxkyro.atabook.org/?page=1">sign my atabook!</a>
 
 
