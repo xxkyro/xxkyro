@@ -16,7 +16,7 @@ most of the information youll find on me is in my carrd, and you can use my atab
 <img width="850" height="261" alt="cf5de8295c2d24592cc6e510bb2fec51" src="https://github.com/user-attachments/assets/63379d3b-f939-45ee-a481-ef064b122f78" />
 
 -
-<img width="850" height="280.62" alt="53e971de9814829977155bf59cfe918d" src="https://mail.google.com/mail/u/2/popout?ver=1czrxiih08qrv#attid%253Datt_19ea4dab13574c72_0.1_6913e1b6_b2388e7b_445e4325_7fe4c89b_e26829b3%25252FUntitled1275_20260607213043.png" />
+<img width="850" height="280.62" alt="53e971de9814829977155bf59cfe918d" src="" />
 <p align="center">
   
   your text here
