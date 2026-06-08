@@ -16,15 +16,22 @@ most of the information youll find on me is in my carrd, and you can use my atab
 <img width="850" height="261" alt="cf5de8295c2d24592cc6e510bb2fec51" src="https://github.com/user-attachments/assets/63379d3b-f939-45ee-a481-ef064b122f78" />
 
 -
-<img width="850" height="280.62" alt="53e971de9814829977155bf59cfe918d" src="" />
+<img width="850" height="280.62" alt="Untitled1275_20260607211955" src="https://github.com/user-attachments/assets/e160a22a-9f55-4f96-9d2f-2a0c768ef1a7" />
+
+
 <p align="center">
-  
-  your text here
+  atabook: <a href="https://mxmxry.atabook.org/?page=1">sign my atabook!</a>
+</p>
+
+  <p align="center">
   · · ─ ·✶· ─ · ·
-  
-  more text if wanted
+</p>
+
+  <p align="center">
+   text here
   
 </p>
-<img width="850" height="280.62" alt="53e971de9814829977155bf59cfe918d" src="https://github.com/user-attachments/assets/19af9120-e50e-4aa6-92c8-41c663700810" />
+<img width="850" height="280.62" alt="Untitled1275_20260607213043" src="https://github.com/user-attachments/assets/6b73c42c-069e-44a4-9125-f0ea23509eb1" />
+
 
 
