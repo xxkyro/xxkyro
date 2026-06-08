@@ -15,7 +15,7 @@ most of the information youll find on me is in my carrd, and you can use my atab
 <img width="850" height="224.4" alt="tumblr_dda35a2710700698b775ef12ce0dd8ef_9d737b40_500" src="https://github.com/user-attachments/assets/43826bc7-5b0f-48b9-8292-3c33199c441f" />
 <img width="850" height="261" alt="cf5de8295c2d24592cc6e510bb2fec51" src="https://github.com/user-attachments/assets/63379d3b-f939-45ee-a481-ef064b122f78" />
 
--
+
 <img width="850" height="280.62" alt="Untitled1275_20260607211955" src="https://github.com/user-attachments/assets/e160a22a-9f55-4f96-9d2f-2a0c768ef1a7" />
 
 
