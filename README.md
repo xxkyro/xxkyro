@@ -3,6 +3,8 @@ hi, my name is kyro. use this to visit my pages!
 carrd: <a href="https://zzzkyro.carrd.co/">check out my carrd!</a>        
 atabook: <a href="https://xxkyro.atabook.org/?page=1">sign my atabook!</a>
 
+artfight: <a href="https://artfight.net/~xxkyro">come attack me!</a>
+
 <br>
 
 
