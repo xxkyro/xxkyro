@@ -3,6 +3,7 @@ hi, my name is kyro. use this to visit my pages!
 carrd: <a href="https://zzzkyro.carrd.co/">check out my carrd!</a>        
 atabook: <a href="https://xxkyro.atabook.org/?page=1">sign my atabook!</a>
 
+please check out my friend's:
 <a href="https://www.gofundme.com/f/help-fuel-foxs-fight-towards-safe-living?attribution_id=sl:410bff2f-a7ad-476e-8716-fd7d42f8319c&lang=en_US&ts=1781829826&utm_campaign=fp_sharesheet&utm_content=amp20_control&utm_medium=customer&utm_source=copy_link">꩜ ⋆｡°✩ 𓆝 𓆟 gofundme𓆝 𓆟 ⋆｡°✩ ꩜</a>
 
 most of the information youll find on me is in my carrd, and you can use my atabook to send me a message! now be forced to look at my bungo stray dog banners.
