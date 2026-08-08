@@ -5,6 +5,8 @@ atabook: <a href="https://xxkyro.atabook.org/?page=1">sign my atabook!</a>
 
 artfight: <a href="https://artfight.net/~xxkyro">come attack me!</a>
 
+commissions!: <a href="https://artfight.net/~xxkyro">come commission me!</a>
+
 <br>
 
 
